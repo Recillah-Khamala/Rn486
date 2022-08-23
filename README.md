@@ -9,7 +9,7 @@ Hi, I'm [Recillah Khamala](https://recillahk.me/), a passionate self-taught Full
 I'm a student of Microverse, I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
 
 
-![I am Full Stack software developer (Junior)](<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">)
+![I am Full Stack software developer (Junior)](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
